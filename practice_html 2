@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <title>learning</title>
+    <link rel="icon" href="japan.jpg">
+    <center>
+    <h1>Student Registration Number</h1>
+    <form>
+    <table border="1">
+        <thead>
+            <td>name</td>
+            <td>age</td>
+            <td>Address:</td>
+            <td>Department:</td>
+            <td></td>
+        </thead>
+       <tbody>
+       
+            
+            <td><input type="text" placeholder="enter name"> </td> 
+       
+        
+            <td><input type="number" placeholder="enter age"></td> 
+       
+            <td><input type="text" placeholder="enter Address"></td>
+       
+           
+            <td>
+                <select>
+                    <option>python</option>
+                    <option>java</option>
+                    <option>c++</option>
+
+
+                </select>
+
+            </td>
+       
+           <td><input type="submit"></td> 
+       
+    </tbody> 
+   
+    </table>
+</form>
+</center>
+
+</html>
+<div class="table-responsive">
+    <table>
+        <thead>
+
+        </thead>
+        <tbody>
+            
+        </tbody>
+    </table>
+</div>
